@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Halil İbrahim Tubay 
 
-<!--
-**Halilsunasyon/Halilsunasyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior .NET Developer focused on C# and backend development.
 
-Here are some ideas to get you started:
+I’m improving my skills in .NET and building projects to gain practical experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+* Worked on a stock tracking application using C#, Microsoft SQL Server, and HTML.
+* Focused on learning backend development with C# and .NET.
+
+## Technologies
+
+* C#
+* Microsoft SQL Server (MSSQL)
+* HTML
+
+## Currently Learning
+
+* ASP.NET Core
+* Object-Oriented Programming (OOP)
+* REST APIs
